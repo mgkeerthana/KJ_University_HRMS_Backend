@@ -1,7 +1,7 @@
 # HRMS
 Human Resource Management System backend built using Node.js, Express, and MongoDB 
 
-# DRDO HRMS Backend
+# HRMS Backend
 
 This is the backend for the Human Resource Management System built using Node.js, Express, and MongoDB. It supports authentication, attendance, leave management, payroll, and more.
 
